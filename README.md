@@ -1,8 +1,8 @@
-# "Software Engineering for Molecular Sciences" - Labs
+# "Software Engineering Fundamentals for Molecular Sciences" - Labs
 
-### 👋 Welcome to the Software Engineering for Molecular Sciences Repository!!!
+### 👋 Welcome to the Software Engineering Fundamentals for Molecular Sciences Repository!!!
 
-This repository contains the labs used in the "Software Engineering for Molecular Sciences" course taught at UC Berkeley. The code and notebooks are released under the Apache 2.0 license. Several of the lab notebooks are inspired by material from "Machine Learning for Drug Discovery" by Noah Flynn (Manning Publications,https://www.manning.com/books/machine-learning-for-drug-discovery).
+This repository contains the lab notebooks used in the "Software Engineering for Molecular Sciences" course taught at UC Berkeley. The code and notebooks are released under the Apache 2.0 license. Several of the lab notebooks are inspired by material from "Machine Learning for Drug Discovery" by Noah Flynn (Manning Publications,https://www.manning.com/books/machine-learning-for-drug-discovery).
 
 ### 💻 Getting Started
 
